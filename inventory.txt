@@ -1,0 +1,20 @@
+methane
+ethane
+propane
+butane
+pentane
+methanol
+ethanol
+1-propanol
+1-butanol
+1-pentanol
+formaldehyde
+acetaldehyde
+propanal
+butanal
+pentanal
+lysergic acid diethylamide
+2-[4-(2-methylpropyl)phenyl]propanoic acid
+N-(4-hydroxyphenyl)acetamide
+methyl 2-phenyl-2-piperidin-2-ylacetate
+2,4,6-trinitrotoluene
